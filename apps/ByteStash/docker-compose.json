@@ -1,0 +1,10 @@
+{
+  "services": [
+    {
+      "name": "bytestash",
+      "image":"ghcr.io/jordan-dalby/bytestash:latest",
+      "isMain": true,
+      "internalPort": "5000"
+    }
+  ]
+}
